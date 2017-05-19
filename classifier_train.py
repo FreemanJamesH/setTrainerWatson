@@ -1,4 +1,4 @@
 import json
 
 
-return "training script run"
+print("training script run")
